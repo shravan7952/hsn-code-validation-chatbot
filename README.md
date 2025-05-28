@@ -55,10 +55,10 @@ This agent for the Google Assistant Development Kit (ADK) validates Harmonized S
 
 **Input:** `0101`
 
-![Screenshot of valid code input](screenshots/input_valid_code.png)
+![Screenshot of valid code input](input.png)
 
 **Output:**
-![Screenshot of valid code output](screenshots/output_valid_code.png)
+![Screenshot of valid code output](output.png)
 
 ## Code Structure
 
